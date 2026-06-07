@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=gmail" width="22" alt="Email"/></td>
-    <td>Feel free to reach me out — <a href="mailto:rafsundipto116@gmail.com">rafsundipto116@gmail.com</a></td>
+    <td>Feel free to reach me out — <a href="mailto:rafsanjanidipto@gmail.com">rafsanjanidipto@gmail.com</a></td>
   </tr>
 </table>
 
@@ -76,7 +76,7 @@
 ## <img src="https://skillicons.dev/icons?i=linkedin" width="26" style="vertical-align:middle"/> FOLLOW ME ON SOCIALS:
 
 <p>
-  <a href="https://www.linkedin.com/in/rafsan-dipto" target="_blank">
+  <a href="https://www.linkedin.com/in/rafsan-jani-dipto" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -88,7 +88,7 @@
     <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:rafsundipto116@gmail.com">
+  <a href="mailto:rafsanjanidipto@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" />
   </a>
 </p>
