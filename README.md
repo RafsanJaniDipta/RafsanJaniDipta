@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=linkedin" width="22" alt="LinkedIn"/></td>
-    <td>I regularly connect on <a href="https://www.linkedin.com/in/rafsan-dipto">LinkedIn</a></td>
+    <td>I regularly connect on <a href="https://www.linkedin.com/in/rafsan-jani-dipto">LinkedIn</a></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=gmail" width="22" alt="Email"/></td>
