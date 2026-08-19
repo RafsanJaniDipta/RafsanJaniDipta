@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=github" width="22" alt="GitHub"/></td>
-    <td>Hi, I'm <b>Rafsan Jani Dipta</b> — <a href="https://github.com/Rafsan41">@Rafsan41</a></td>
+    <td>Hi, I'm <b>Rafsan Jani Dipta</b> — <a href="https://github.com/RafsanJaniDipta">@RafsanJaniDipta</a></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=react" width="22" alt="React"/></td>
